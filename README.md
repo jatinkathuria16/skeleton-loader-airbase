@@ -26,7 +26,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd skeleton-loader-airbase-dev.
+  cd skeleton-loader-airbase-dev
 ```
 
 Install dependencies
