@@ -13,7 +13,6 @@ The loader supports both light and dark mode via props
 
 ## Demo
 
-Insert gif or link to demo
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzcwdzdsZ2NoMGVmY3lmcDVwMmk4YWxrbXN2NHZlNmhjaGQ5bzE2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AiFPd3ROCAKCIbuF22/giphy.gif)
 
 ## Run Locally
@@ -41,12 +40,4 @@ Start the server
 ```bash
   npm  start
 ```
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
