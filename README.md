@@ -8,18 +8,13 @@ A skeleton loader demo app having two types of data :
 2) Users
 
 The loader supports both light and dark mode via props
-## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## Demo
 
 Insert gif or link to demo
-
-<iframe src="https://giphy.com/embed/AiFPd3ROCAKCIbuF22" width="480" height="312" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/AiFPd3ROCAKCIbuF22">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzcwdzdsZ2NoMGVmY3lmcDVwMmk4YWxrbXN2NHZlNmhjaGQ5bzE2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AiFPd3ROCAKCIbuF22/giphy.gif)
 
 ## Run Locally
 
