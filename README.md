@@ -20,7 +20,7 @@ The loader supports both light and dark mode via props
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://link-to-project](https://github.com/jatinkathuria16/skeleton-loader-airbase.git
 ```
 
 Go to the project directory
