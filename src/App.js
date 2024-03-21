@@ -1,10 +1,14 @@
 // core
 import React from 'react';
+// import Todos from './containers/hocPractice/todos';
+// import Users from './containers/hocPractice/user';
+import SearchTodos from './containers/hocPractice/todos';
+import SearchUsers from './containers/hocPractice/user';
 
 // custom components
 // import Users from './containers/users';
 // import Stories from './containers/stories';
-import Companies from './containers/companies';
+// import Companies from './containers/companies';
 
 function App() {
   // const [stories, setStories] = useState(null);
@@ -31,8 +35,14 @@ function App() {
       <div className="content">
         <Stories stories={stories} hasData={!!stories && !!users} />
         <Users users={users} hasData={!!stories && !!users} />
-      </div> */}
-      <Companies />
+      </div> 
+      <Companies /> */}
+      <div className="content">
+        {/* <Todos />
+        <Users /> */}
+        <SearchTodos />
+        <SearchUsers />
+      </div>
     </div>
   );
 }
